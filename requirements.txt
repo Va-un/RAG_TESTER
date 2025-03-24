@@ -1,0 +1,15 @@
+pypdf
+PyPDF2
+langchain
+langchain-community
+sentence-transformers
+spacy
+numpy
+pandas
+scikit-learn
+google-generativeai
+streamlit
+transformers
+torch
+tqdm
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.0/en_core_web_md-3.7.0-py3-none-any.whl
